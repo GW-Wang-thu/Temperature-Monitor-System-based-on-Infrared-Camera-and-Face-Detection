@@ -183,7 +183,7 @@ class FIITM_MAIN(QMainWindow,Ui_FIITM):
         self.AutosaveFrenquency = self.DialogWindow.AutosaveFrenquency
         self.CalculateFrenquency = self.DialogWindow.CalculateFrenquency
         self.Log += self.DialogWindow.Log + "\n  }"
-        self.Loglines += 1
+        self.Loglines += self.DialogWindow.Loglines
         self.LogOut_Window.setPlainText(self.Log)
         self.LogOut_Window.verticalScrollBar().setSliderPosition(self.Loglines)
 
@@ -622,6 +622,7 @@ class FIITM_DIALOG(QDialog, Ui_Dialog):
         self.AutosaveFrenquency = AutosaveFrenquency
         self.CalculateFrenquency = CalculateFrenquency
         self.Log = ""
+        self.Loglines = 0
         self.AlarmTem_Text.setText(str(AlarmTem))
         self.Conf_Text.setText(str(Conf))
         self.IOU_Text.setText(str(IOU))
