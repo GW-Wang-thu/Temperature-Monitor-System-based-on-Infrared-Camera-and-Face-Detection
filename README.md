@@ -9,4 +9,5 @@
 7. 通过Pyinstaller生成.exe可执行文件，支持视频分析、图像分析等本地连接；改变相机参数可以进行实时监测
 
 Copyright@Guowen Wang, Tsinghua University
+
 No Commercial Use Allowed
