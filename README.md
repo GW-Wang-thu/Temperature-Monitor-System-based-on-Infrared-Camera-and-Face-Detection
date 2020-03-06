@@ -1,4 +1,5 @@
 # Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection
+## 2020-3-15//Upload Test Version
 基于红外相机和人脸检测的体温监测告警系统，主要功能特点如下
 1. 面向车站等大人流等应用场合进行动态体温检测；
 2. 基于红外相机的温度读取和体温提取分析
@@ -10,4 +11,4 @@
 
 Copyright@Guowen Wang, Tsinghua University
 
-No Commercial Use Allowed
+License: No Commercial Use Allowed
