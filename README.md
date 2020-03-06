@@ -7,3 +7,6 @@
 5. 基于PyQT开发UI，支持摄像头实时读取处理、本地视频、图片的读取分析及显示；支持系统识别的关键参数设置；支持（自动）保存当前帧、保存视频等文件保存操作；
 6. 支持设置告警体温以实现体温超标自动告警
 7. 通过Pyinstaller生成.exe可执行文件，支持视频分析、图像分析等本地连接；改变相机参数可以进行实时监测
+
+Copyright@Guowen Wang, Tsinghua University
+No Commercial Use Allowed
