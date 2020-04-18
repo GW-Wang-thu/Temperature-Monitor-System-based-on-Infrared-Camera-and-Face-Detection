@@ -11,6 +11,8 @@
 
 ![image](https://https://github.com/GW-Wang-thu/Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection/edit/master/UIDemo-1.jpg)
 
+### This is now just a framework of what I'm going to carry out. I'll start the study on the improvement of test accuracy when I return to school.
+
 Copyright@Guowen Wang, Tsinghua University
 
 License: No Commercial Use Allowed
