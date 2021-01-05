@@ -1,4 +1,4 @@
-# Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection
+# Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection--A framework
 ## 2020-3-15//Upload Test Version
 基于红外相机和人脸检测的体温监测告警系统，主要功能特点如下
 1. 面向车站等大人流等应用场合进行动态体温检测；
@@ -10,8 +10,6 @@
 7. 通过Pyinstaller生成.exe可执行文件，支持视频分析、图像分析等本地连接；改变相机参数可以进行实时监测
 
 ![image](https://https://github.com/GW-Wang-thu/Temperature-Monitor-System-based-on-Infrared-Camera-and-Face-Detection/edit/master/UIDemo-1.jpg)
-
-### This work is now just a framework of what I'm going to carry out. I'll start the study on the improvement of test accuracy when I return to school.
 
 Copyright@Guowen Wang, Tsinghua University
 
